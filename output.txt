@@ -1,0 +1,76 @@
+Multiple line comment
+Single line comment
+
+Variable declared
+a is already declared
+
+Variable declared
+
+Value of the variable l=: 1	
+y not declared yet
+
+The gcd of 2 and 8 is : 2	
+
+The lcm of 2 and 8 is : 8	
+
+Variable declared
+
+The square of 4  is : 16	
+squareroot of 16 is 4
+
+Variable declared
+
+The maximum of 10 and 20 is : 20	
+
+The minimum of 10 and 20 is : 10	
+
+Factorial of 3 is 6
+Absolute value of 20 is 20
+Absolute value of -20 is 20
+
+Power of 2 to 3 is 8
+inc: 9
+dec: 7
+positive: 1
+
+Value of the variable d=: 12	
+
+value of expression in IF: 16
+
+condition value is false
+
+value of expression in IF: 1
+
+value of expression in ELIF: 2
+inside for loop counting 1
+inside for loop counting 2
+inside for loop counting 3
+inside for loop counting 4
+inside for loop counting 5
+inside for loop counting 6
+inside for loop counting 7
+inside for loop counting 8
+inside for loop counting 9
+inside for loop counting 10
+
+For loop is Done
+inside while loop counting 10
+inside while loop counting 9
+inside while loop counting 8
+inside while loop counting 7
+inside while loop counting 6
+inside while loop counting 5
+inside while loop counting 4
+inside while loop counting 3
+inside while loop counting 2
+inside while loop counting 1
+
+While loop is Done
+
+one
+Case No : 1  and Result :  4
+Switch is done 
+Function Declared
+Return value is = 5
+
+I have done it
